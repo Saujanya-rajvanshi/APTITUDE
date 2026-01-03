@@ -3,6 +3,8 @@
 ### INDEX
 - [Learning Checklist](#Checklist)
 - [roadmap](#roadmap)
+- [basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
+
 
 ######  Checklist
 
