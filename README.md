@@ -3,7 +3,7 @@
 ### INDEX
 - [Learning Checklist](#Checklist)
 - [roadmap](#roadmap)
-- [basic maths codes](https://github.com/Saujanya-rajvanshi/basic-maths)
+- [basic maths codes in DSA](https://github.com/Saujanya-rajvanshi/basic-maths)
 
 
 ######  Checklist
