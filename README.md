@@ -1,5 +1,13 @@
 # APTITUDE
 
+# My Checklist
+
+- [ ] Learn numbers
+- [ ] Learn addition & subtraction
+- [ ] Learn multiplication & division
+- [ ] Learn fractions & decimals
+- [ ] Practice aptitude questions
+
 ---
 
 ## 🧮 LEVEL 0: NUMBER FOUNDATIONS (Class 1–3)
