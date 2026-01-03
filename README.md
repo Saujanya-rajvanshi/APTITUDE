@@ -1,9 +1,10 @@
 # APTITUDE
 
 ### INDEX
-- [Learning Checklist](#Aptitude-Learning-Checklist)
+- [Learning Checklist](#Checklist)
 - [roadmap](#roadmap)
 
+######  Checklist
 
 # 📝 Aptitude Learning Checklist
 
