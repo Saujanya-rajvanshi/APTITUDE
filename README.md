@@ -136,7 +136,6 @@
 ## 🧮 LEVEL 0: NUMBER FOUNDATIONS (Class 1–3)
 
 ### 1️⃣ Number System – Basics
-
 * Counting numbers (1, 2, 3…)
 * Reading & writing numbers
 * Place value (ones, tens, hundreds, thousands)
