@@ -1,10 +1,11 @@
 # APTITUDE
 
 ### INDEX
-- [Learning Checklist](#Checklist)
-- [roadmap](#roadmap)
+
+- [roadmap](#Roadmap)
 - [basic maths codes in DSA](https://github.com/Saujanya-rajvanshi/basic-maths)
 
+#### Roadmap
 ---
 
 ## 🧮 LEVEL 0: NUMBER FOUNDATIONS (Class 1–3)
