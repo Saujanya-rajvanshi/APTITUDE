@@ -272,8 +272,7 @@
 * Even & odd numbers
 * Zero concept
 
-<img width="768" height="412" alt="Types-of-numbers-image-2-768x412" src="https://github.com/user-attachments/assets/a8aabe52-c06f-473e-9d2f-46ee1cfa83b9" />
-
+<img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/2290d73b-7d23-4afb-a7f1-c4c6b39f9514" />
 
 ## ➗ Even & Odd Numbers
 - **Even Numbers**:
