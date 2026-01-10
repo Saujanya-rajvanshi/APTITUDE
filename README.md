@@ -238,6 +238,8 @@
 | Hundreds   | 500                         |
 | Thousands  | 4000                        |
 
+<img width="600" height="519" alt="image" src="https://github.com/user-attachments/assets/eedb4392-cb58-464c-b8e0-b5bb1ea87f90" />
+
 ---
 
 ## 🎭 Face Value vs Place Value
