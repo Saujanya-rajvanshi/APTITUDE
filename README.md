@@ -275,6 +275,43 @@
 * Zero concept
 
 <img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/2290d73b-7d23-4afb-a7f1-c4c6b39f9514" />
+ 
+---
+
+### Types of Numbers 
+
+#### 1. **Complex Numbers**
+- Includes all numbers of the form *a + bi*, where *i* is the imaginary unit.
+- Contains both **Real** and **Imaginary** numbers.
+
+#### 2. **Imaginary Numbers**
+- Numbers like *bi* where *b ≠ 0* and *i = √–1*.
+- Not part of the real number line.
+
+#### 3. **Real Numbers**
+- All numbers on the number line.
+- Includes both **Rational** and **Irrational** numbers.
+
+#### 4. **Rational Numbers**
+- Can be expressed as a fraction *p/q*, where *q ≠ 0*.
+- Includes:
+  - **Integers**
+  - **Terminating or repeating decimals**
+
+#### 5. **Irrational Numbers**
+- Cannot be written as a fraction.
+- Non-repeating, non-terminating decimals (e.g., √2, π).
+
+#### 6. **Integers**
+- Whole numbers and their negatives: … –3, –2, –1, 0, 1, 2, 3 …
+
+#### 7. **Whole Numbers**
+- Non-negative integers: 0, 1, 2, 3, …
+
+#### 8. **Natural Numbers**
+- Counting numbers starting from 1: 1, 2, 3, …
+
+---
 
 ## ➗ Even & Odd Numbers
 - **Even Numbers**:
@@ -300,5 +337,4 @@
   - **Additive identity**: \(a + 0 = a\).
   - **Multiplication property**: \(a \times 0 = 0\).
   - Neither positive nor negative.
-  - Even number (since divisible by 2)
-
+  - Even number (since divisible by 2
