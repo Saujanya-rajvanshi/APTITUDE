@@ -10,7 +10,8 @@
 
 ## 🧮 LEVEL 0: NUMBER FOUNDATIONS (Class 1–3)
 
-### 1️⃣ Number System – Basics
+### 1️⃣ Number System – Basics 
+- [number system](#number-system)
 * Counting numbers (1, 2, 3…)
 * Reading & writing numbers
 * Place value (ones, tens, hundreds, thousands)
@@ -18,7 +19,7 @@
 * Number names
 
 ### 2️⃣ Types of Numbers
-
+- [types of number](#types-of-number)
 * Natural numbers
 * Whole numbers
 * Even & odd numbers
@@ -197,20 +198,106 @@
 
 ---
 
-## 🎯 HOW WE’LL STUDY (Recommended)
+###### number system
+---
+* Counting numbers (1, 2, 3…)
+* Reading & writing numbers
+* Place value (ones, tens, hundreds, thousands)
+* Face value vs place value
+* Number names
 
-Since your **math base is weak**, we will:
+# 📘 Number System – Basics
 
-* 📌 Learn **1 topic per day**
-* 📌 Start with **very easy examples**
-* 📌 Then move to **placement-level questions**
-* 📌 Use **short tricks only after concepts**
+## 🔢 Counting Numbers
+- **Definition**: Numbers used for counting objects.  
+- **Examples**: \(1, 2, 3, 4, 5, \dots\)  
+- **Note**: Counting numbers start from **1** (not 0).
 
 ---
 
-### ✅ NEXT STEP
+## ✍️ Reading & Writing Numbers
+- Numbers can be expressed in **figures** (e.g., 245) or **words** (e.g., Two hundred forty-five).  
+- **Rules**:
+  - Write digits in correct order according to place value.
+  - Use commas for large numbers (Indian system: 1,23,456; International system: 123,456).
 
-We will **start from Topic 1** properly.
+---
 
-👉 **Say “Start Topic 1”**
-and I’ll teach **numbers + place value** from absolute basics with examples.
+## 🏷️ Place Value
+- **Definition**: The value of a digit depending on its position in a number.  
+- **Example**: In 4,562:
+  - 2 → Ones place → Value = 2
+  - 6 → Tens place → Value = 60
+  - 5 → Hundreds place → Value = 500
+  - 4 → Thousands place → Value = 4000  
+
+| Position   | Place Value Example (4,562) |
+|------------|-----------------------------|
+| Ones       | 2                           |
+| Tens       | 60                          |
+| Hundreds   | 500                         |
+| Thousands  | 4000                        |
+
+---
+
+## 🎭 Face Value vs Place Value
+- **Face Value**: The digit itself, regardless of position.  
+  - Example: In 4,562, face value of 5 = 5.  
+- **Place Value**: The digit’s value according to its position.  
+  - Example: In 4,562, place value of 5 = 500.  
+
+👉 **Rule of Thumb**:  
+- Face Value = Digit itself  
+- Place Value = Digit × Position value
+
+---
+
+## 📝 Number Names
+- Writing numbers in words:
+  - 23 → Twenty-three  
+  - 105 → One hundred five  
+  - 1,234 → One thousand two hundred thirty-four  
+- **Tips**:
+  - Avoid “and” in the middle (e.g., write *One hundred five*, not *One hundred and five*).
+  - Follow standard conventions (Indian vs International system).
+
+---
+
+###### types of number
+---
+
+# 🔢 Types of Numbers
+
+*  numbers
+* Even & odd numbers
+* Zero concept
+
+<img width="768" height="412" alt="Types-of-numbers-image-2-768x412" src="https://github.com/user-attachments/assets/a8aabe52-c06f-473e-9d2f-46ee1cfa83b9" />
+
+
+## ➗ Even & Odd Numbers
+- **Even Numbers**:
+  - Divisible by 2.
+  - Form: \(2n\), where \(n\) is any integer.
+  - Examples: \(0, 2, 4, 6, 8, \dots\)  
+- **Odd Numbers**:
+  - Not divisible by 2.
+  - Form: \(2n+1\), where \(n\) is any integer.
+  - Examples: \(1, 3, 5, 7, 9, \dots\)  
+
+| Type | Rule | Examples |
+|------|------|----------|
+| Even | Divisible by 2 | 0, 2, 4, 6, 8 |
+| Odd  | Not divisible by 2 | 1, 3, 5, 7, 9 |
+
+---
+
+## 🌀 Zero Concept
+- **Zero (0)** is a unique number with special properties:
+  - It is **not a natural number** but is included in whole numbers.
+  - Acts as a **placeholder** in place value system (e.g., 105).
+  - **Additive identity**: \(a + 0 = a\).
+  - **Multiplication property**: \(a \times 0 = 0\).
+  - Neither positive nor negative.
+  - Even number (since divisible by 2)
+
